@@ -18,7 +18,8 @@ TEXT
 + item3
 
 
-```print('hello world')
+```
+print('hello world')
 ```
 
 
@@ -37,3 +38,11 @@ TEXT
 |4|5|6|
 |7|8|9|
 |4|5|6|
+
+
+# 問題
+問題文を書く
+
+# 方針
+
+<img src="https://latex.codecogs.com/pdf.latex?\sum_{x=1}^{n}&space;\sum&space;_{y=x&plus;1}^{n}&space;xy&space;=&space;\frac{1}{24}(n-1)n(n&plus;1)(3n&plus;2)/>"
